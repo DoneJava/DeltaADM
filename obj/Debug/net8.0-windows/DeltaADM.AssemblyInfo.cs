@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeltaADM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffddfaecba8ffcd224c1d6c0139deda96f743a80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2e0f609ebfa9a9f42a89f7a9f04259ea5677186")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeltaADM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeltaADM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

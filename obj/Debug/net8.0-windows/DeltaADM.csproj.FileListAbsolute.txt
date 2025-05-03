@@ -1,0 +1,17 @@
+C:\Users\mathe\Desktop\DeltaADM\bin\Debug\net8.0-windows\DeltaADM.exe
+C:\Users\mathe\Desktop\DeltaADM\bin\Debug\net8.0-windows\DeltaADM.deps.json
+C:\Users\mathe\Desktop\DeltaADM\bin\Debug\net8.0-windows\DeltaADM.runtimeconfig.json
+C:\Users\mathe\Desktop\DeltaADM\bin\Debug\net8.0-windows\DeltaADM.dll
+C:\Users\mathe\Desktop\DeltaADM\bin\Debug\net8.0-windows\DeltaADM.pdb
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.Form1.resources
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.csproj.GenerateResource.cache
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.sourcelink.json
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.dll
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\refint\DeltaADM.dll
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.pdb
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\DeltaADM.genruntimeconfig.cache
+C:\Users\mathe\Desktop\DeltaADM\obj\Debug\net8.0-windows\ref\DeltaADM.dll
